@@ -1,0 +1,17 @@
+{
+  "name": "kaspa_airdroper",
+  "version": "0.0.1",
+  "description": "script-based airdroper for KAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kaspa"
+  ],
+  "author": "young",
+  "license": "MIT",
+  "dependencies": {
+    "kaspa-rpc-client": "^1.1.8"
+  }
+}
